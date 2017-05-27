@@ -53,8 +53,11 @@ section a{width: 100%;}
 color: white;
 font-size:2em;}
 
-.terhome{color:white;
+.terhome{
 font-size: 24px;
+}
+
+.terhome a{color:white;
 }
 
 /*svg file*/
