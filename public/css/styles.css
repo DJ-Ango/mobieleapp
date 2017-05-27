@@ -1,0 +1,72 @@
+body {
+  font-family: helvetica;
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+  background: linear-gradient(to bottom, #136a8a 0%, #267871 100%);
+}
+
+section {
+    background-color: white;
+    margin: 25px 0;
+    padding: 4%;
+    border-radius: 1%;
+    border: 1px dotted white;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+
+h2 {
+  margin: 25px 0;
+}
+
+.tit h2{font-size: 23px;}
+
+h3 {
+  display: inline;
+}
+
+nav {
+  margin: 25px 0;
+}
+
+nav a {
+    display: inline-block;
+    color: snow;
+    margin-right: 5px;
+    text-decoration: none;
+}
+section a{width: 100%;}
+.line{
+  width: 100%;
+  border: 1px solid rgba(255,255,255,0.3);
+  margin-top: 2%;
+}
+
+.logothe{font-family: 'lulo_cleanoutline_bold';
+color: white;
+font-size:2em;}
+
+
+
+/*svg file*/
+
+
+
+/*fontface*/
+
+@font-face {
+    font-family: 'lulo_cleanoutline_bold';
+    src: url('LuloCleanOutlineBold-webfont.woff2') format('woff2'),
+         url('LuloCleanOutlineBold-webfont.woff') format('woff'),
+         url('LuloCleanOutlineBold-webfont.svg#lulo_cleanoutline_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
