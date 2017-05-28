@@ -27,7 +27,7 @@ h2 {
 }
 
 .tit h2{font-size: 23px;}
-
+.itemnew h2{color: white;}
 h3 {
   display: inline;
 }
@@ -42,7 +42,12 @@ nav a {
     margin-right: 5px;
     text-decoration: none;
 }
-section a{width: 100%;}
+section a {
+    font-size: 18px;
+    width: 100%;
+    color: black;
+}
+
 .line{
   width: 100%;
   border: 1px solid rgba(255,255,255,0.3);
@@ -60,6 +65,10 @@ font-size: 24px;
 .terhome a{color:white;
 }
 
+.footlink{color:black;
+padding: 2%;
+background-color:white;
+width: 100%;}
 /*svg file*/
 
 
