@@ -27,7 +27,7 @@ h2 {
 }
 
 .tit h2{font-size: 23px;}
-.itemnew h2{color: white;}
+.itemnew {color: white;}
 h3 {
   display: inline;
 }
